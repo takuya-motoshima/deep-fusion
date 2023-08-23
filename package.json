@@ -1,6 +1,6 @@
 {
   "name": "deep-fusion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursive object extending.",
   "main": "dist/build.common.js",
   "module": "dist/build.esm.js",
