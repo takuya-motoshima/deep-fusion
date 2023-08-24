@@ -3,6 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.2] - 2023/8/24
 ### Fixed
+- Fixed a bug that prevented proper import due to a broken module.
 
 ## [1.0.1] - 2023/8/23
 ### Changed
