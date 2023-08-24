@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2023/8/24
+### Changed
+- Update TypeScript version from 4.5.2 to 5.1.6.
+- Delete unused dependent packages.
+
+
 ## [1.0.2] - 2023/8/24
 ### Fixed
 - Fixed a bug that prevented proper import due to a broken module.
@@ -38,3 +44,4 @@ All notable changes to this project will be documented in this file.
 
 [1.0.1]: https://github.com/takuya-motoshima/deep-fusion/compare/v1.0.0...v1.0.1
 [1.0.2]: https://github.com/takuya-motoshima/deep-fusion/compare/v1.0.1...v1.0.2
+[1.0.3]: https://github.com/takuya-motoshima/deep-fusion/compare/v1.0.2...v1.0.3
